@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Connect with me
 <p align="left">
 <a href="linkedin.com/in/abhishek-ojha-03794b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal-siddiqui-908451244" height="30" width="40" /></a>
-<a href="https://codesandbox.com/faizalsidp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faizalsidp" height="30" width="40" /></a>
+<a href="https://codesandbox.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faizalsidp" height="30" width="40" /></a>
    <a href="mail@: aojha7408@gmail.com" target="blank">
         <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="atanu k." height="30" width="40" />
     </a>
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal-siddiqui&layout=compact&show_icons=true&theme=gotham&hide_border=true" alt="faizal-siddiqui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekOjha5972&layout=compact&show_icons=true&theme=gotham&hide_border=true" alt="AbhishekOjha5972" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizal-siddiqui&show_icons=true&theme=gotham&hide_border=true" alt="faizal-siddiqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekOjha5972&show_icons=true&theme=gotham&hide_border=true" alt="faizal-siddiqui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizal-siddiqui&" alt="faizal-siddiqui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekOjha5972&" alt="AbhishekOjha5972" /></p>
