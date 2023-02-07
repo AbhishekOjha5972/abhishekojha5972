@@ -30,17 +30,8 @@ Here are some ideas to get you started:
 
 - 📃 Checkout my <a href="https://drive.google.com/file/d/1zz2eOWRBcKxcl-jF0ZYMlvfUlBw9cxkF/view?usp=share_link">Resume<a/>
   
-- 🗄 Here's my  <a href="https://abhishekojha5972.github.io/Portfolio<a/>
+- 🗄 Here's my  <a href="https://abhishekojha5972.github.io" Portfolio<a/>
   
-## Connect with me
-<p align="left">
-<a href="linkedin.com/in/abhishek-ojha-03794b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal-siddiqui-908451244" height="30" width="40" /></a>
-<a href="https://codesandbox.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faizalsidp" height="30" width="40" /></a>
-   <a href="mail@: aojha7408@gmail.com" target="blank">
-        <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="atanu k." height="30" width="40" />
-    </a>
-  
-</p>
 
 ## Languages and Tools:
 	
