@@ -1,6 +1,7 @@
 <!-- [![MasterHead](https://www.freepik.com/free-vector/cartoon-banner-code-testing_9668913.htm#query=software%20development%20banner&position=6&from_view=keyword&track=ais)].(https://abhishekojha5972.github.io/) -->
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Full Stack developer having a goal to make his skills better.</h3>
+<h3 align="center">I am a full-stack software developer and I'm passionate about coding, and reading Sci-fi, fantasy books.
+And I like to make things that make a difference.</h3>
 💫 About Me:
 
 🔭 I’m currently working on undefined<br>🌱 I’m currently learning MongoDB, Express<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js<br>⚡ Fun fact Even after reading so much, why does it seem that nothing comes at all.<br>- 📫 How to reach me **aojha7408@gmail.com** <br> 👨‍💻 All of my projects are available at [https://abhishekojha5972.github.io/](https://abhishekojha5972.github.io/)
