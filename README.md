@@ -4,7 +4,7 @@
 And I like to make things that make a difference.</h3>
 💫 About Me:
 
-🔭 I’m currently working on AI based extension<br>🌱 I’m currently learning MongoDB, Express<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js<br>⚡ Fun fact Even after reading so much, why does it seem that nothing comes at all.<br>- 📫 How to reach me **aojha7408@gmail.com** <br> 👨‍💻 All of my projects are available at [https://abhishekojha5972.github.io/](https://abhishekojha5972.github.io/)
+🔭 I’m currently working on AI based extension<br>🌱 I’m currently learning about Redis, Java, Machine Learning<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Web-Sockets, MongoDB, Express<br>⚡ Fun fact Even after reading so much, why does it seem that nothing comes at all.<br>- 📫 How to reach me **aojha7408@gmail.com** <br> 👨‍💻 All of my projects are available at [https://abhishekojha5972.github.io/](https://abhishekojha5972.github.io/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekojha5972&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekojha5972" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekojha5972" alt="abhishekojha5972" /></a> </p>
