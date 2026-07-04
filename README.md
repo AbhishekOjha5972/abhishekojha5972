@@ -1,13 +1,66 @@
 <!-- [![MasterHead](https://www.freepik.com/free-vector/cartoon-banner-code-testing_9668913.htm#query=software%20development%20banner&position=6&from_view=keyword&track=ais)].(https://abhishekojha5972.github.io/) -->
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">I am a full-stack software developer and I'm passionate about coding, and reading Sci-fi, fantasy books.
-And I like to make things that make a difference.</h3>
-💫 About Me:
 
-🔭 I’m currently working on AI based extension.<br>🌱 I’m currently learning about SASS, Micro Services.<br>🤖 Currently working on globeAI.<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Web-Sockets, MongoDB, Express<br>⚡ Fun fact Even after reading so much, why does it seem that nothing comes at all.<br>- 📫 How to reach me **aojha7408@gmail.com** <br> 👨‍💻 All of my projects are available at [https://abhishekojha5972.github.io/](https://abhishekojha5972.github.io/)
+# Hi, I'm Abhishek Ojha 👋
+
+### Senior Software Engineer • AI Systems Engineer • Backend Architect
+
+I build intelligent software systems that operate at production scale.
+
+Over the last **3+ years**, I've architected distributed backend systems, AI-powered applications, conversational AI platforms, recommendation engines, and developer infrastructure. My work combines modern software engineering with large language models to build products that are scalable, reliable, and genuinely useful.
+
+I enjoy solving complex engineering problems where system design, artificial intelligence, and backend architecture intersect.
+
+## Some Things I've Built
+
+- 🤖 AI recommendation engine processing **1M+ products**
+- 🎙️ Real-time Voice AI platform powered by GPT-4, LiveKit & Deepgram
+- 🧠 Production RAG systems with semantic search
+- ⚡ High-performance backend services serving **1M+ users**
+- 🏗️ Event-driven wallet and transaction systems
+- 🚀 AI-powered developer tools and automation platforms
+
+---
+
+I believe great software isn't built by chasing technologies-it's built by deeply understanding problems.
+
+Whether I'm designing distributed systems, building AI applications, or optimizing backend performance, my focus remains the same:
+
+> **Build software that scales, performs, and creates real impact.**
+
+---
+
+## Tech Stack
+
+### Languages
+
+Python • TypeScript • JavaScript • SQL
+
+### AI
+
+OpenAI • Claude • LangChain • Pinecone • RAG • MCP • AI Agents
+
+### Backend
+
+FastAPI • Django • Node.js • Express • GraphQL • gRPC • WebSockets
+
+### Databases
+
+PostgreSQL • MongoDB • Redis • Elasticsearch
+
+### Infrastructure
+
+Docker • Kubernetes • Kafka • RabbitMQ • AWS • Terraform • GitHub Actions
+
+---
+
+## GitHub Stats
+
+<!-- GitHub Stats -->
+---
+
+> *Building software where Artificial Intelligence meets Systems Engineering.*
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekojha5972&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekojha5972" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekojha5972" alt="abhishekojha5972" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ojha-03794b1aa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aojha7408) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCB9Oq84KgUBarc4a3rGKMXA) 
